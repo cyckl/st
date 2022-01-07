@@ -1,6 +1,6 @@
 st - simple terminal
 --------------------
-st is a simple terminal emulator for X which sucks less.
+you know what st is
 
 
 Requirements
@@ -27,6 +27,10 @@ the st terminfo entry with the following command:
     tic -sx st.info
 
 See the man page for additional details.
+
+Patches
+-------
+- none
 
 Credits
 -------
